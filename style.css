@@ -206,9 +206,10 @@ header .navbar {
   padding: 1.4rem 10%;
 }
 
-.hero-image {
-  max-width: 400px;
-}
+.hero-image-wrapper{
+  width:700px;
+  height:auto;
+}  
 
 .hero-section .hero-details .title {
   font-size: var(--font-size-xxl);
